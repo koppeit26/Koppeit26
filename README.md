@@ -1,4 +1,19 @@
-## Hi there 👋
+# Tere! Olen [Kristina ] 👋
+
+Õpin Haapsalu Kutsehariduskeskuses [IT-26].
+
+## Minust
+
+- Mind huvitab [programeerimine]
+- Vabal ajal [raamatute lugemine ja kirjutamine]
+
+## Mida ma olen õppinud
+
+| Õppeaine | Mida oskan |
+|---|---|
+| [Digisisu loomine] | [Jooniseid teha ] |
+| [Dokumentatsiooni loomine ] | [exeli ja wordi kasutamist] |
+
 
 <!--
 **koppeit26/Koppeit26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
